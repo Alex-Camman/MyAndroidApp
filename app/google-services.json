@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366868337667",
+    "project_id": "my-application-969c1",
+    "storage_bucket": "my-application-969c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366868337667:android:56fe3a376d968587ceea36",
+        "android_client_info": {
+          "package_name": "com.ford.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgfP0v_OOPFNIobE9R7F-e6Bd_c8k2qD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
